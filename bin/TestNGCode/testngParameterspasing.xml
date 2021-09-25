@@ -1,0 +1,9 @@
+<suite name="Suite1">
+	<test name="TestA">
+		<parameter name="email" value="ananda@gmail.com" />
+		<parameter name="password" value="password123" />
+		<classes>
+			<class name="TestNGCode.ParametersDemo" />
+		</classes>
+	</test>
+</suite>

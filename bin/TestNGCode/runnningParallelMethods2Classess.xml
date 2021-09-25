@@ -1,0 +1,9 @@
+<suite name="ParallelSuite" parallel="methods" thread-count="2">
+	<test name="parallelMethods">
+		<classes>
+			<class name="TestNGCode.RunningParallelMethods" />
+			<class name="TestNGCode.RunningParallelMethods2" />
+
+		</classes>
+	</test>
+</suite>

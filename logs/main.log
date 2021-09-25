@@ -1,0 +1,5 @@
+2021-06-27 12:31:12,351 +0530 [main] WARN  (Example.java:27) - Warn Message!
+2021-06-27 12:31:12,355 +0530 [main] ERROR (Example.java:28) - Error Message!
+2021-06-27 12:31:12,355 +0530 [main] FATAL (Example.java:29) - Fatal Message!
+2021-06-27 12:38:25,525 +0530 [main] WARN  (Log4jSeleniumExample.java:25) - Entering log4j Test
+2021-06-27 12:39:11,751 +0530 [main] WARN  (Log4jSeleniumExample.java:33) - exiting log4j Test

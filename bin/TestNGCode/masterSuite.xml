@@ -1,0 +1,6 @@
+<suite name="MasterSuite">
+<suite-files>
+<suite-file path="testngParameterspasing.xml"></suite-file>
+<suite-file path="runnningParallelMethods.xml"></suite-file>
+</suite-files>
+</suite>

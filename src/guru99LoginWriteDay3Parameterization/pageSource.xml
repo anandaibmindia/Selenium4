@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<script type="text/javascript">alert(Resource id #7);</script>
+		<script type="text/javascript"> alert('User or Password is not valid');
+			window.location.href = 'index.php';</script>
+	</head>
+</html>
+
+
+
+<!-- function getAlert() {
+
+  // get all scripts
+  var elem = document.scripts;
+
+  // loop and check
+  for (var i = 0, len = elem.length; i < len; i++) {
+
+    var txt = elem[i].textContent.match(/alert\(['"]([^'"]+)['"]\)/);
+    if (txt) { return txt[1]; } // if matched, return the alert text and stop
+  }
+}  -->
